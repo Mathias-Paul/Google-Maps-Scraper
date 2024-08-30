@@ -1,0 +1,3 @@
+Flask
+python -m pip install --upgrade 'algoliasearch>=3.0,<4.0'
+# Continue to add dependencies here once functions are finalized
